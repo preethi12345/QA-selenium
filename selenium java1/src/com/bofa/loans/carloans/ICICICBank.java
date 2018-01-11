@@ -1,7 +1,7 @@
 package com.bofa.loans.carloans;
 
 public class ICICICBank implements RBI {
-	int a = 10;
+	int a = 500;
 	public void m1()
 	{
 		System.out.println(a);
